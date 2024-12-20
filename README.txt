@@ -29,3 +29,5 @@ Inside the 'src/config folder create a new file 'config.json and then add the fo
 }
 
 '''
+
+once u have added the db config listed above,go to the
