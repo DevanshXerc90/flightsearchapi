@@ -33,8 +33,8 @@ module.exports = {
         updatedAt: new Date()
       },
       {
-        name: ' chaudhary charan singh Airport',
-        cityId: 3,
+        name: 'Indira Gandhi International Airport',
+        cityId: 2,
         createdAt: new Date(),
         updatedAt: new Date()
       }
